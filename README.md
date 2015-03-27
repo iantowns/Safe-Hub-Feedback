@@ -5,7 +5,7 @@ Safe Hub Feedback is a webapp for submitting anonymous feedback to the cool peop
 If you are totally new to Safe Hub Feedback, you'll need to get your dev environment up and running, which really is half the battle of any new dev project.
 
 ### Github
-Being that this is GitHub Repo, you'll need to create a GitHub account and install Git. You're already on GitHub, so you can navigate to the sign-up page and make an account there. Git, the protocol for managing projects on GitHub, can be a bit confusing, but there are great tutorials out there. Once you install Node.js below, you can try a cool <a href="http://nodeschool.io/#workshoppers">interactive tutorial</a> from the command line to get more familiar. The <a href="http://www.git-scm.com/">Git documentation</a> is a great resource too.
+Being that this is GitHub Repo, you'll need to create a GitHub account and install Git. You're already on GitHub, so you can navigate to the sign-up page and make an account there. Then you can <a href="https://help.github.com/articles/set-up-git/"> set-up Git</a> on your computer. Git, the protocol for managing projects on GitHub, can be a bit confusing, but there are great tutorials out there. Once you install Node.js below, you can try a cool <a href="http://nodeschool.io/#workshoppers">interactive tutorial</a> from the command line to get more familiar. The <a href="http://www.git-scm.com/">Git documentation</a> is a great resource too.
 
 ### Node.js
 This webapp uses Node.js as its web application, so you'll need to install Node (and its very cool package manager NPM). You can follow the instructions <a href="https://nodejs.org/download/">here</a>.
